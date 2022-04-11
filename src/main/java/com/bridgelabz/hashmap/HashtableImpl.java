@@ -52,6 +52,11 @@ public class HashtableImpl<T1, T2> {
 	    public void printNodes() {
 	        System.out.println("My nodes: " + head);
 	    }
+
+		public void remove(String string) {
+			// TODO Auto-generated method stub
+			
+		}
 	}
 
 
